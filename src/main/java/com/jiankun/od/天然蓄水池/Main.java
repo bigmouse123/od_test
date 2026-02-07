@@ -1,8 +1,8 @@
-package com.jiankun.od;
+package com.jiankun.od.天然蓄水池;
 
 import java.util.Scanner;
 
-public class 天然蓄水池 {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String next = scanner.nextLine();
