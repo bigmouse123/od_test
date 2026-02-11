@@ -33,7 +33,7 @@ public class Main {
                 Map<Integer, Integer> map = arrayList.stream().collect(Collectors.toMap(x -> x, x -> 1, Integer::sum));
                 for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
                     Integer value = entry.getValue();
-                    if (value == k) {
+                    if (value >= k) {
                         count++;
                         break;
                     }
