@@ -1,4 +1,4 @@
-package com.jiankun.od.查找接口成功率最优时间段;
+package com.jiankun.od.双机位C.No6_查找接口成功率最优时间段;
 
 import java.util.Arrays;
 import java.util.Scanner;

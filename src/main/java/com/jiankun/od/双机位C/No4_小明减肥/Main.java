@@ -1,4 +1,4 @@
-package com.jiankun.od.小明减肥;
+package com.jiankun.od.双机位C.No4_小明减肥;
 
 public class Main {
     static int count = 0;

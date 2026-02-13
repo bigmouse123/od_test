@@ -1,4 +1,4 @@
-package com.jiankun.od.天然蓄水池;
+package com.jiankun.od.双机位C.No1_天然蓄水池;
 
 import java.util.Scanner;
 

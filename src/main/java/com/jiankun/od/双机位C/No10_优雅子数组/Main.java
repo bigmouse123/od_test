@@ -1,4 +1,4 @@
-package com.jiankun.od.优雅子数组;
+package com.jiankun.od.双机位C.No10_优雅子数组;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.jiankun.od.两个字符串间的最短路径;
+package com.jiankun.od.双机位C.No12_两个字符串间的最短路径;
 
 import java.util.Scanner;
 import java.util.*;
